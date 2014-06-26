@@ -38,7 +38,7 @@ Data
 * FreeBSD and Gnome http://msr.uwaterloo.ca/msr2010/challenge/
 * Argument Ontology from Janet E. Burge http://www.wpi.edu/Pubs/ETD/Available/etd-050205-085625/
 * Generating Benchmarks from Change History Data to Support Evaluation of Software Maintenance Tasks - Online Appendix http://www.cs.wm.edu/semeru/data/msr13/
-* 
+* Ruby on Rails GitHub Data https://github.com/pridkett/gitminer-data-rails
 
 Data: Requirements and Traceability
 ===================================
@@ -57,6 +57,7 @@ Tools
 * Boa: http://boa.cs.iastate.edu/
 * CVS Analy https://metricsgrimoire.github.io/CVSAnalY/
 * TraceLab for traceability https://github.com/CoEST/TraceLab
+* GitMiner: https://github.com/pridkett/gitminer
 
 Research Groups
 ===============
