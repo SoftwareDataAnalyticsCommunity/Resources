@@ -41,7 +41,8 @@ Data
 * Eclipse Firefox Chrome Netbeans http://2011.msrconf.org/msr-challenge.html
 * FreeBSD and Gnome http://msr.uwaterloo.ca/msr2010/challenge/
 * Argument Ontology from Janet E. Burge http://www.wpi.edu/Pubs/ETD/Available/etd-050205-085625/
-
+* Generating Benchmarks from Change History Data to Support Evaluation of Software Maintenance Tasks - Online Appendix http://www.cs.wm.edu/semeru/data/msr13/
+* 
 
 Data: Requirements and Traceability
 ===================================
@@ -52,6 +53,12 @@ Data: Requirements and Traceability
 * CM-1 http://promise.site.uottawa.ca/SERepository/datasets-page.html and zip
 * More traceability data http://www.coest.org/index.php/for-researches1
 * Traceability Challenge! http://distat.unimol.it/TAinSM2012/pages/challenge.html
+
+Tools
+=====
+
+* TraceLab for traceability https://github.com/CoEST/TraceLab
+* CVS Analy https://metricsgrimoire.github.io/CVSAnalY/
 
 Research Groups
 ===============
