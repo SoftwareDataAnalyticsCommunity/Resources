@@ -23,6 +23,11 @@ Tutorials
 
 *  PASED - Canadian Summer School on Practical Analyses of Software Engineering Data  with VIDEOS http://pased.soccerlab.polymtl.ca/schedule.php
 
+Tools
+=========
+
+* Baker: Extracting Fully-Qualified Names from Source Code Snippets https://cs.uwaterloo.ca/~rtholmes/baker/
+
 Data
 ====
 
