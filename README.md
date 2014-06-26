@@ -32,7 +32,6 @@ Tools
 Data
 ====
 
-* Promise Data http://promisedata.org/
 * Promise Data http://code.google.com/p/promisedata/
 * GHTorrent - GitHub meta data mirrored (> 4TB) http://ghtorrent.org/
 * LDA Topics labelled by NFR http://softwareprocess.es/nomen/
@@ -56,5 +55,20 @@ Data: Requirements and Traceability
 
 Research Groups
 ===============
+
+Future Wikipedia Additions?
+==============================
+
+* S/W Data Analytics Lifecycle
+* * Exploration -> Storage -> Analysis
+* Tools / data sources for extraction:
+* * SCM
+* * Email
+* * Issue tracker
+* * App store
+* * Test cases
+* * Testing output
+
+
 
 
