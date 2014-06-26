@@ -22,6 +22,11 @@ Tutorials
 
 * 
 
+Tools
+=========
+
+* Baker: Extracting Fully-Qualified Names from Source Code Snippets https://cs.uwaterloo.ca/~rtholmes/baker/
+
 Data
 ====
 
