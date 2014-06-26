@@ -17,6 +17,7 @@ Videos
 
 *  PASED - Canadian Summer School on Practical Analyses of Software Engineering Data  with VIDEOS http://pased.soccerlab.polymtl.ca/schedule.php
 *  Predicting bugs in code changes using SCM information https://www.youtube.com/watch?v=oRZk8uepiKE
+* ``Coverage Is Not Strongly Correlated With Test Suite Effectiveness``: http://vimeo.com/92273013 (Full details: http://www.linozemtseva.com/research/2014/icse/coverage/)
 
 Tutorials
 =========
