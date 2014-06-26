@@ -15,7 +15,7 @@ BlogRoll
 Videos
 ======
 
-* ``Coverage Is Not Strongly Correlated With Test Suite Effectiveness``: http://vimeo.com/92273013 Full details: http://www.linozemtseva.com/research/2014/icse/coverage/
+* ``Coverage Is Not Strongly Correlated With Test Suite Effectiveness``: http://vimeo.com/92273013 (Full details: http://www.linozemtseva.com/research/2014/icse/coverage/)
 
 Tutorials
 =========
