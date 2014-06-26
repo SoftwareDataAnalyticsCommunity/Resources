@@ -31,3 +31,4 @@ Data
 ====
 
 * GHTorrent - GitHub meta data mirrored (> 4TB) http://ghtorrent.org/
+* PromiseData - https://code.google.com/p/promisedata/
