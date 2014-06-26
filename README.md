@@ -61,7 +61,7 @@ Tools
 Research Groups
 ===============
 
-Future Wikipedia Additions?
+Future Wikipedia Additions? OH YEAH!
 ==============================
 
 * S/W Data Analytics Lifecycle
