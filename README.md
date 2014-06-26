@@ -60,14 +60,14 @@ Future Wikipedia Additions?
 ==============================
 
 * S/W Data Analytics Lifecycle
-* * Exploration -> Storage -> Analysis
+  * Exploration -> Storage -> Analysis
 * Tools / data sources for extraction:
-* * SCM
-* * Email
-* * Issue tracker
-* * App store
-* * Test cases
-* * Testing output
+  * SCM
+  * Email
+  * Issue tracker
+  * App store
+  * Test cases
+  * Testing output
 
 
 
